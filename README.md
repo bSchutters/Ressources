@@ -1,10 +1,31 @@
 # Ressources Dev/Design
+<details>
+<summary>
+Changelog
+</summary>
+
+#### [1.2] - 26/09/23
+
+- Adding inspiration site (Stack sorted)
+
+
+#### [1.1] - 25/09/23
+
+- Adding youtube channels
+#### [1.0] - 22/09/23
+
+- Adding firsts resources
+
+
+
+
+</details>
 
 ## 🎓 Learning 
 
 - [GrafikArt (💲)](https://grafikart.fr/cursus)
 - [Ecole du web 💲](https://www.ecole-du-web.net/)
-- [Programing books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md#lua)
+- [Programing books](https://github.com/EbookFoundation/free-programming-books/tree/main)
 
 ## 📺 Youtube/Videos
 
@@ -103,6 +124,7 @@
 - [UX Archives](https://uxarchive.com/)
 - [Logggos Club](https://www.logggos.club/)
 - [Brand style guides](https://brandingstyleguides.com/)
+- [Stack Sorted <sup>new</sup>](https://stacksorted.com)
 
 ## 🛠️ Outils 
 
