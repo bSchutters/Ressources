@@ -18,7 +18,7 @@
 - [Design Principes](https://principles.design/)
 - [Human by design](https://humanebydesign.com/)
 
-## 🎨 ressources/Colors
+## 🎨 Colors
 
 - [CSS Gradients](https://cssgradient.io/gradient-backgrounds/)
 - [Gradients](https://webgradients.com/)
