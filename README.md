@@ -14,7 +14,7 @@ Changelog
 - Adding youtube channels
 #### [1.0] - 22/09/23
 
-- Adding firsts resources
+- Adding first resources
 
 
 
